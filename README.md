@@ -15,7 +15,7 @@ The project now provides two working scripts: an rc script to start and stop the
 
 Upgrade
 -------
-Working on the upgrade process - Upgrade to current is working to current unstable 5.8.14 Version - Not for Production
+Working on the upgrade process - Upgrade to current is working to current unstable 5.8.20 Version - Not for Production
 
 Milestones
 ----------
