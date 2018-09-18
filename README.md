@@ -6,7 +6,7 @@ A shell script package that provides the UniFi Controller software.
 Purpose
 -------
 
-The objective of this project is to develop and maintain a package that provides [Ubiquiti's](http://www.ubnt.com/) UniFi Controller software for a FreeBSD-based jail or any BSD/Linux distrubition unsupported by Ubiquiti. 5.9.X Version branch - Testing only
+The objective of this project is to develop and maintain a package that provides [Ubiquiti's](http://www.ubnt.com/) UniFi Controller software for a FreeBSD-based jail or any BSD/Linux distrubition unsupported by Ubiquiti. 5.9.X Version branch - Stable Canidate Status.
 
 Status
 ------
@@ -84,8 +84,8 @@ To start and stop the controller, use the `service` command from the command lin
 
 References
 ----------
-Version 5.9.22 fixes
-https://community.ubnt.com/t5/UniFi-Beta-Blog/UniFi-SDN-Controller-5-9-22-Stable-Candidate-has-been-released/ba-p/2449044
+Version 5.9.24 fixes
+https://community.ubnt.com/t5/UniFi-Beta-Blog/UniFi-SDN-Controller-5-9-24-Stable-Candidate-has-been-released/ba-p/2464949
 
 Thanks to thecodemonk for your hard work, modified from https://github.com/thecodemonk/unifi-pfsense and https://github.com/TechButton/unifi-controller-freebsd-freenas
 
