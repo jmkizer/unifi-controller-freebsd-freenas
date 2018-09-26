@@ -1,3 +1,6 @@
+UPDATED: 5.9.29
+
+
 unifi-controller-freebsd-freenas
 =============
 
@@ -84,8 +87,8 @@ To start and stop the controller, use the `service` command from the command lin
 
 References
 ----------
-Version 5.9.24 fixes
-https://community.ubnt.com/t5/UniFi-Beta-Blog/UniFi-SDN-Controller-5-9-24-Stable-Candidate-has-been-released/ba-p/2464949
+Version 5.9.29 fixes
+https://community.ubnt.com/t5/UniFi-Beta-Blog/UniFi-SDN-Controller-5-9-29-Stable-Candidate-has-been-released/ba-p/2506740
 
 Thanks to thecodemonk for your hard work, modified from https://github.com/thecodemonk/unifi-pfsense and https://github.com/TechButton/unifi-controller-freebsd-freenas
 
